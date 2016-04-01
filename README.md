@@ -1,4 +1,4 @@
-# PostCSS Direction Support
+# Outset Direction Support
 
 [PostCSS] plugin to override direction and flip css properties of styles from ltr/rtl and reverse in a simple overriding way.
 
@@ -30,6 +30,13 @@
     right: auto;
     margin-right: auto;
 }
+```
+## install
+
+using npm
+
+``` terminal
+npm install postcss-outset-direction-override --save
 ```
 
 ## Usage
