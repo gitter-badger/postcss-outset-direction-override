@@ -1,6 +1,6 @@
 {
   "name": "postcss-outset-direction-override",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "plugin to override direction and flip css properties of styles from ltr/rtl and reverse in a simple overriding way",
   "keywords": [
     "postcss",
