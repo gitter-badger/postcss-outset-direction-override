@@ -1,5 +1,7 @@
 # Outset Direction Support
 
+[![Join the chat at https://gitter.im/unijad/postcss-outset-direction-override](https://badges.gitter.im/unijad/postcss-outset-direction-override.svg)](https://gitter.im/unijad/postcss-outset-direction-override?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [PostCSS] plugin to override direction and flip css properties of styles from ltr/rtl and reverse in a simple overriding way.
 
 [PostCSS]: https://github.com/postcss/postcss
